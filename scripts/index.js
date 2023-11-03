@@ -8,7 +8,7 @@ $(document).ready(function(){
 		threshold:.6
 	})
 	$(".btn_cv").click(function(){
-		window.open("files/ERIC GICHURI MUCHIRI CV.pdf")
+		window.open("files/Johnstone_cv.pdf")
 	})
 	$(".btn_projects").click(function(){
 		window.location.href="#projects"
@@ -23,7 +23,7 @@ $(document).ready(function(){
 		window.open("tel:+254704893874")
 	})
 	$(".btnemail").click(function(){
-		window.open("mailto:ngetichjonnie402@gmail.com")
+		window.open("ngetichjohnstone76@gmail.com")
 	})
 	$(".btn_readmore").click(function(){
 		window.location.href="#projects"
